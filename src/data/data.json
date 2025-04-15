@@ -1,0 +1,242 @@
+{
+  "Header": {
+    "title": "Servicio de Desarrollo Web, Consultoría IT y Asesoramiento",
+    "paragraph": "Desarrollo de Aplicaciones Web, Tiendas Online, Landing Page en Misiones"
+  },
+  "About": {
+    "paragraph": "Toledo Consultora IT, es una consultora tecnológica y de desarrollo de soluciones Web. Trabajamos con empresas y organizaciones de todos los tamaños. Nuestro Objetivo es ser tu socio tecnológico y darte las soluciones que tu negocio necesita. Fundada y liderada por Eduardo Toledo desde 2022.",
+    "Why": [
+      "Transparencia",
+      "Claridad",
+      "Confianza",
+      "Cobertura",
+      "Sociedad a largo plazo"
+    ],
+    "Why2": [
+      "Etica Empresarial",
+      "Post-Venta Garantizada",
+      "Atención Especial",
+      "Experiencia Internac.",
+      "Costos Accesibles"
+    ]
+  },
+"Gallery": [
+  
+  {
+    "title": "Calyaan Login",
+    "description": "HRM, SaaS, CRM, ERP, Ecommerce",
+    "link": "https://calyaan.netlify.app/",
+    "largeImage": "img/portfolio/calyaan.png",
+    "smallImage": "img/portfolio/calyaan-tumb.png"
+  }, 
+  {
+    "title": "Gato Negro Land",
+    "description": "Ecommerce con panel de autogestion de productos y venta de ordenes, mas administracion de usuarios",
+    "link": "https://elgatonegropremium.netlify.app",
+    "largeImage": "img/portfolio/gatonegro.png",
+    "smallImage": "img/portfolio/gatonegro-tumb.png"
+  },
+  {
+    "title": "Gato Negro Products",
+    "description": "Ecommerce con panel de autogestion de productos y venta de ordenes, mas administracion de usuarios",
+    "link": "https://elgatonegropremium.netlify.app",
+    "largeImage": "img/portfolio/gatonegro2.png",
+    "smallImage": "img/portfolio/gatonegro2-tumb.png"
+  },
+ 
+  {
+    "title": "Store Computer Land",
+    "description": "Ecommerce con panel de autogestion de productos y venta de ordenes, mas administracion de usuarios",
+    "link": "https://storecomputer.netlify.app/",
+    "largeImage": "img/portfolio/store.png",
+    "smallImage": "img/portfolio/store-tumb.png"
+  },
+  {
+    "title": "Store Computer Products",
+    "description": "Ecommerce con panel de autogestion de productos y venta de ordenes, mas administracion de usuarios",
+    "link": "https://storecomputer.netlify.app/",
+    "largeImage": "img/portfolio/store2.png",
+    "smallImage": "img/portfolio/store2-tumb.png"
+  },
+
+  {
+    "title": "Crypto Dashboard",
+    "description": "Plataforma de seguimiento de criptomonedas con gráficos en tiempo real y análisis de mercado",
+    "link": "#",
+    "largeImage": "img/portfolio/crypto.png",
+    "smallImage": "img/portfolio/crypto.png"
+  },
+  {
+    "title": "Gato Negro Premium",
+    "description": "Versión mejorada del ecommerce con funcionalidades avanzadas de catálogo",
+    "link": "#",
+    "largeImage": "img/portfolio/gatonegro1.png",
+    "smallImage": "img/portfolio/gatonegro1.png"
+  },
+  {
+    "title": "RM Construcciones",
+    "description": "Sitio web corporativo para empresa constructora con portfolio de proyectos",
+    "link": "#",
+    "largeImage": "img/portfolio/rm.png",
+    "smallImage": "img/portfolio/rm.png"
+  },
+  {
+    "title": "Yerba Mate App",
+    "description": "Aplicación móvil para amantes del mate con recetas y consejos de cebado",
+    "link": "#",
+    "largeImage": "img/portfolio/yerba.png",
+    "smallImage": "img/portfolio/yerba.png"
+  },
+  {
+    "title": "Yerba Mate Community",
+    "description": "Red social para compartir experiencias sobre la cultura del mate",
+    "link": "#",
+    "largeImage": "img/portfolio/yerba1.png",
+    "smallImage": "img/portfolio/yerba1.png"
+  },
+  {
+    "title": "Appel Design",
+    "description": "Portfolio digital para estudio de diseño gráfico y branding",
+    "link": "#",
+    "largeImage": "img/portfolio/appel.png",
+    "smallImage": "img/portfolio/appel.png"
+  },
+  {
+    "title": "Crypto Design",
+    "description": "Portfolio digital para estudio de diseño gráfico y branding",
+    "link": "#",
+    "largeImage": "img/portfolio/crypto1.png",
+    "smallImage": "img/portfolio/crypto1.png"
+  },
+  {
+    "title": "Crypto Design",
+    "description": "Portfolio digital para estudio de diseño gráfico y branding",
+    "link": "#",
+    "largeImage": "img/portfolio/crypto3.png",
+    "smallImage": "img/portfolio/crypto3.png"
+  },
+  {
+    "title": "Crypto Design",
+    "description": "Portfolio digital para estudio de diseño gráfico y branding",
+    "link": "#",
+    "largeImage": "img/portfolio/crypto4.png",
+    "smallImage": "img/portfolio/crypto4.png"
+  }
+],
+  
+  "Services": [
+  {
+    "icon": "fa fa-stack-exchange",
+    "name": "Desarrollo Full Stack",
+    "text": "Desarrollo de aplicaciones completas utilizando stacks MERN y PERN, ofreciendo soluciones robustas y escalables para aplicaciones web."
+  },
+  {
+    "icon": "fa fa-cloud",
+    "name": "DevOps y Gestión en la Nube",
+    "text": "Implementación de prácticas DevOps con Docker y AWS, optimizando el despliegue, la escalabilidad y la eficiencia en entornos de producción."
+  },
+  {
+    "icon": "fa fa-file-code-o",
+    "name": "Lenguajes y Frameworks",
+    "text": "Experto en HTML, CSS, JavaScript, Node.js, React y Express, creando aplicaciones interactivas y de alto rendimiento."
+  },
+  {
+    "icon": "fa fa-database",
+    "name": "Bases de Datos",
+    "text": "Gestión de bases de datos con PostgreSQL y MongoDB, asegurando una integración eficiente y consultas optimizadas para grandes volúmenes de datos."
+  },
+  {
+    "icon": "fa fa-server",
+    "name": "Integraciones y APIs",
+    "text": "Desarrollo de integraciones con plataformas como MercadoPago, Twilio y Nodemailer, facilitando funcionalidades avanzadas en tus aplicaciones."
+  },
+  {
+    "icon": "fa fa-github-square",
+    "name": "Herramientas y Metodologías",
+    "text": "Uso de herramientas como Postman, Trello, Git, y metodologías ágiles como Scrum para una gestión eficiente y colaborativa del desarrollo."
+  },
+  {
+    "icon": "fa fa-database",
+    "title": "Bases de Datos",
+    "text": "Experiencia avanzada en PostgreSQL y MongoDB, asegurando almacenamiento y consultas eficientes para proyectos web y de alta demanda."
+  },
+  {
+    "icon": "fa fa-server",
+    "title": "Servidores Confiables",
+    "text": "Desarrollo de APIs y sistemas robustos con Node.js y Express, proporcionando seguridad y rendimiento óptimos en aplicaciones web."
+  }
+]
+,
+
+  
+"Testimonials": [
+  
+  {
+    "img": "img/testimonials/04.jpg",
+    "text": "Consultora Toledo transformó la plataforma de ecommerce de Gato Negro, mejorando no solo la experiencia de usuario sino también el rendimiento y la seguridad del sitio. Su trabajo constante y visión a largo plazo han sido fundamentales para el crecimiento de nuestro negocio en línea.",
+    "name": "Gato Negro e-liquids"
+  },  
+    {
+    "img": "img/testimonials/02.jpg",
+    "text": "Gracias a Eduardo y su Consultora por el desarrollo y puesta en produccion de nuestro SAAS calyaan.com.co, integrando desde pagos en línea hasta un sistema avanzado de geolocalización, chat, servicio de whatsapp, correos y liquidación de honorarios profesionales. No solo supervisaron el desarrollo técnico, sino que también actuaron como nexo entre los diferentes equipos y áreas de la empresa, garantizando que el proyecto se entregara a tiempo y con altos estándares.",
+    "name": "Calyaan Colombia"
+  },
+  {
+    "img": "img/testimonials/05.jpg",
+    "text": "Solicitamos a Consultora Toledo el desarrollo de la plataforma de ecommerce para nuestra empresa Computer Store. Y nos entregó junto a su equipo una solución robusta y funcional. Gracias a su experiencia, implementamos características avanzadas como la integración de MercadoPago y autenticación segura.",
+    "name": "Computer Store"
+  }
+]
+,
+  "Team": [
+    
+  ],
+  "Contact": {
+    "address": "C. 52 22 - Posadas, Misiones, Argentina",
+    "phone": "+54 3764221063",
+    "email": "ventas@toledoconsultora.com",
+        "facebook": "https://www.facebook.com/people/Toledo-Consultora-It/61567966653297/",
+    "whatsapp": "https://wa.me/543764221063",
+    "youtube": "https://www.youtube.com/@eduardocarlostoledo",
+    "instagram": "https://www.instagram.com/toledoconsultora/"
+  },
+  "Features": [
+  
+],
+"Asesoramiento": [
+  {
+    "icon": "fa fa-support",
+    "title": "Asesoramiento Tecnológico",
+    "text": "Te ofrecemos un servicio de asesoramiento tecnológico para maximizar el uso de Internet y las TIC en tu negocio."
+  },
+  {
+    "icon": "fa fa-diamond",
+    "title": "Posiciona tu negocio e Incrementa Ventas",
+    "text": "Incrementa las ventas, accede a nuevos mercados y mejora tu presencia en internet."
+  },
+  {
+    "icon": "fa fa-users",
+    "title": "Implementa herramientas digitales para tu negocio",
+    "text": "Conecta con nuevos clientes, capta a los potenciales y cierra ventas."
+  },
+  {
+    "icon": "fa fa-connectdevelop",
+    "title": "Reinvéntate con Tecnología",
+    "text": "Identifica áreas de mejora en tu negocio y transforma tus procesos ."
+  },
+  {
+    "icon": "fa fa-laptop",
+    "title": "Interfaces Modernas",
+    "text": "Diseño de interfaces responsivas con React y Tailwind CSS, ofreciendo experiencias de usuario fluidas y compatibles con dispositivos móviles."
+  },
+  {
+    "icon": "fa fa-cloud-upload",
+    "title": "Implementación DevOps",
+    "text": "Integración y despliegue continuo utilizando Docker y Kubernetes, optimizando la gestión y escalabilidad de aplicaciones en entornos de producción."
+  }
+]
+
+
+
+
+}
