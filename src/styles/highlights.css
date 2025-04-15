@@ -1,0 +1,40 @@
+/* styles/highlights.css */
+.highlights-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    padding: 3rem 1rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .highlight-section {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .highlight-title {
+    font-size: 1.4rem;
+    color: #333;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #eee;
+  }
+  
+  .highlight-list {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+  
+  .highlight-list li {
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  @media (max-width: 768px) {
+    .highlights-container {
+      grid-template-columns: 1fr;
+    }
+  }

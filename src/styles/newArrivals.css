@@ -1,0 +1,37 @@
+/* styles/newArrivals.css */
+.new-arrivals {
+    padding: 3rem 1rem;
+    background-color: #f8f9fa;
+  }
+  
+  .arrivals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .arrival-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .arrival-card table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .arrival-card th,
+  .arrival-card td {
+    padding: 0.5rem;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .arrival-card th {
+    font-weight: 600;
+    color: #333;
+  }

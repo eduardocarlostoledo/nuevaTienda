@@ -1,0 +1,33 @@
+/* styles/footerSection.css */
+.footer-section {
+    padding: 3rem 1rem;
+    background-color: #333;
+    color: white;
+    text-align: center;
+  }
+  
+  .footer-section .section-title {
+    color: white;
+  }
+  
+  .footer-section .section-divider {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  
+  .footer-list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 2rem;
+  }
+  
+  .footer-list li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-info {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+  }
